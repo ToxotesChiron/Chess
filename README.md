@@ -11,7 +11,7 @@ sometime. All current chess playing programs use algorithms that either,
 operate on non-polynomial time, or do not implement a brute analyses.
 
 "Chess" hopes to, using parrallel computing, multiprocessing, and --
-a relatively new concept, communal computing, prestine optimization
-and simplistic/clean data, and redacted and revolutionary algorithms,
+a relatively new concept, communal computing, prestine optimization,
+simplistic/clean data, and redacted and revolutionary algorithms,
 solve the current restrictions and limitations posed by time to create
 a perfect chess "player".
